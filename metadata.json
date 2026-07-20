@@ -1,0 +1,6 @@
+{
+  "name": "WhatsApp Web & Mobile Clone",
+  "description": "A high-fidelity, highly interactive WhatsApp Web and mobile responsive clone featuring fully simulated character chats powered by Gemini AI, status stories, audio/video call logs, custom filters, and active profile customization.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
